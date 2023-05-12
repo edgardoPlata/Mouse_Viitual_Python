@@ -1,0 +1,13 @@
+Este código utiliza OpenCV, Mediapipe y la librería Win32api
+ para controlar el cursor del mouse utilizando la detección de manos.
+
+Para mover el cursor: extiende tu mano con la palma hacia abajo y mueve tu mano en el aire para mover el cursor del mouse en la dirección correspondiente.
+
+Para hacer clic izquierdo: extiende tu mano con la palma hacia abajo y
+ levanta tu dedo índice para que esté recto
+ y apuntando hacia arriba. Este gesto
+ se interpreta como un clic izquierdo del mouse.
+
+Para hacer clic derecho: extiende tu mano con la palma hacia abajo y levanta tu dedo pulgar para que esté recto y 
+apuntando hacia arriba.
+ Este gesto se interpreta como un clic derecho del mouse.
